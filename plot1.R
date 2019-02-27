@@ -1,7 +1,7 @@
 ## ===== FUNCTION: plot1 =====
 ## +INPUT 
 ## function reads a zip file (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
-## and extracts the household_power_consumption.txt file for processing
+## and extracts the household_power_consumption.txt file for processing for two days Feb 1-2, 2007
 ## +OUTPUT
 ## plots a histogram for Global Active Power and copies to a PNG in the working directory
 ## +ASSUMPTIONS

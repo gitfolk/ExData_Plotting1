@@ -1,3 +1,16 @@
+# How to Use
+## Instructions
+1. copy repository contents to working directory
+2. run source('plot*n*.R') followed by plot*n*() for n = 1..4
+3. output should be plotted on screen and copied to corresponding plot*n*.png file
+
+## Contents
+* **README.md** - file containing repo contents, instrutions and assignment background
+* **plot*n*.R** - R files containing functions for genertating charts 1..4
+* **plot*n*.png** - chart outputs from R files 1..4
+* **figure** - folder containing example output for charts
+
+# Assignment
 ## Introduction
 
 This assignment uses data from
